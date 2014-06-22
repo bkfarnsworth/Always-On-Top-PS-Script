@@ -16,6 +16,6 @@ http://poshcode.org/1837
 Known bugs:
 
 --it seems that windows explorer still is not showing up some times
---and the two powershell things are getting mixed up..? (when I have ISE and a normal powershell console open)
+--and two open powershell apps will sometimes get mixed up. (when I have ISE and a normal powershell console open)
 
 
